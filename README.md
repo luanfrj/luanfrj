@@ -1,4 +1,4 @@
-# Hello, folks!
+# Hi!
 
 My name is Luan, I am Computer Engineer. I am from Brazil and currently work as IT Analyst. 
 
